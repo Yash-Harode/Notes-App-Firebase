@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348801637511",
+    "project_id": "notes-yash",
+    "storage_bucket": "notes-yash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348801637511:android:b31909d3f8d9e48599ec22",
+        "android_client_info": {
+          "package_name": "com.example.codeland"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWOjUhXG3XR8u1sRRTtYj809slKrZdYVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
